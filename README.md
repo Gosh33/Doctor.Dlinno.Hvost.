@@ -8,12 +8,15 @@
 
 
 
+<head>
 
+<body>
 
 
           <iframe width="700" height="500" src="https://www.youtube.com/embed/UPmvDPkuvBQ?si=cZYYye59WouSjKnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+<head/>
+<body/>
 
 
 
@@ -36,11 +39,6 @@
 
 
 <img src="https://i.pinimg.com/736x/03/35/43/0335435bf0daada40391717467a71b6c--men-street-styles-paris-photo.jpg" alt="�.�.�." width="1000" height="550"></a>
-
-
- <a href="https://gvf-war.fandom.com/wiki/Protogen">
-
-<img src="http://pm1.narvii.com/7787/004d4eb124adeb3efc464bb01439a1431d83cb0fr1-1200-1200v2_hq.jpg" alt="�.�.�." width="1000" height="450"></a>
 
 
 <p>Центральный Универсальный Магазин, иначе Ц.У.М. Одно из самых потрясающих мест, в котором Алексей чувствовал себя совершенно необычно. Гуляя по такому огромному магазину, писателю приходило в голову сотню а то порой и тысячу разных идей, сделать различные рассказы и кнги с непосредственным участием этого здания. Конечно, само здание не стало принимаать участие в его рассказах как какая либо ни о чём-ная,локация, у него также имелся собственый лор, который заставлял персонажа туда явиться</p>
